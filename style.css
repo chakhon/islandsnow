@@ -1,5 +1,9 @@
-.ui.borderless.menu{
+#top {
   background-color: #f7f7f7;
+  box-shadow: none;
+  border: none;
+}
+#mid {
   box-shadow: none;
   border: none;
 }
