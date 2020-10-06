@@ -1,5 +1,36 @@
+<<<<<<< Updated upstream
 .ui.borderless.menu{
+=======
+body {
+  padding-bottom: 400px;
+}
+
+#top {
+>>>>>>> Stashed changes
   background-color: #f7f7f7;
   box-shadow: none;
   border: none;
 }
+<<<<<<< Updated upstream
+=======
+
+#mid {
+  box-shadow: none;
+  border: none;
+}
+
+#bot {
+  padding: 50px 0px 50px 0px;
+}
+
+.ui.button {
+  color: white;
+  background-color: black;
+  border-radius: 0px;
+}
+
+.prompt {
+  width: 400px;
+  border-radius: 0px;
+}
+>>>>>>> Stashed changes
